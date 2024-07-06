@@ -1,7 +1,8 @@
 # JuegoPelota
 
 ### Descripción del Juego
-Consiste en controlar una barra para que el balón no marque gol en la portería, cada toque con que hagas con la barra, sumas puntos.
+Consiste en controlar una barra para que el balón no marque gol en la portería, cada toque con que hagas con la barra, sumas puntos.</br>
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
 ### Capturas del Juego
 
