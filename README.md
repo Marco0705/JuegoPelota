@@ -5,6 +5,6 @@ Consiste en controlar una barra para que el balón no marque gol en la portería
 
 ### Capturas del Juego
 
-![Alt text](https://github.com/Marco0705/JuegoPelota/blob/main/screenshots_images/1.png?raw=true)
+![Alt text](https://github.com/Marco0705/JuegoPelota/blob/main/Screenshots_images/1.png?raw=true)
 
-![Alt text](https://github.com/Marco0705/JuegoPelota/blob/main/screenshots_images/2.png?raw=true)
+![Alt text](https://github.com/Marco0705/JuegoPelota/blob/main/Screenshots_images/2.png?raw=true)
